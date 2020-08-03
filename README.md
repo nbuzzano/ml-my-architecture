@@ -1,6 +1,6 @@
 # ML Architecture ! 
 
-This is an application built with the only purpose of learning how [Docker](https://www.docker.com) works and also learning to create a basic ML architecture. The app is built with [Flask](http://flask.pocoo.org/), [RabbitMQ](https://www.rabbitmq.com) and [MySQL](https://www.mysql.com) on the backend.
+This is an application built with the only purpose of learning how [Docker](https://www.docker.com) works and also learning to create a non-complex ML architecture. The app is built with [Flask](http://flask.pocoo.org/), [RabbitMQ](https://www.rabbitmq.com) and [MySQL](https://www.mysql.com) on the backend.
 
 ### Architecture
 
