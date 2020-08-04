@@ -22,7 +22,6 @@ storage/files/
 *.vec
 *.bin
 *.log
-*.env
 *.pkl
 *.npz
 *.npy
